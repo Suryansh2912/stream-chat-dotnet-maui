@@ -6,7 +6,7 @@
 public static class StaticConfig
 {
     /// <summary>
-    /// Stream API KEY. You can get it from https://dashboard.getstream.io/
+    /// Stream API KEY. You can get it from https://dashboard.getstream.io/1261427
     /// </summary>
     public const string StreamApiKey = "";
 
